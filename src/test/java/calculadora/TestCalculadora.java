@@ -14,14 +14,14 @@ public class TestCalculadora {
      double retornoFeito = calculadora.getAdicao();
      assertEquals(retornoEsperado, retornoFeito, 0);
    }
-   
-   @Test
-   public void testGetAdicaoZero(){
-     Calculadora calculadora = new Calculadora();
-     double retornoEsperado = 0.0;
-     double retornoFeito = calculadora.getAdicao();
-     assertEquals(retornoEsperado, retornoFeito, 0);
-   }
+
+   /*@Test
+   public void testGetAdicaoZero() {
+       Calculadora calculadora = new Calculadora();
+       double retornoEsperado = 0.0;
+       double retornoFeito = calculadora.getAdicao();
+       assertEquals(retornoEsperado, retornoFeito, 0);
+   }*/
    
    @Test
    public void testGetSubtracao(){

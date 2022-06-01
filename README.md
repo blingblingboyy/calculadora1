@@ -1,6 +1,6 @@
+[![Github Actions Status for blingblingboyy/calculadora1](https://github.com/blingblingboyy/calculadora1/workflows/Integra%C3%A7%C3%A3o%20continua%20de%20Java%20com%20Maven/badge.svg)](https://github.com/osmarbraz/calculadora/actions)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=blingblingboyy_calculadora1&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=blingblingboyy_calculadora1)
-[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=blingblingboyy_calculadora1)](https://sonarcloud.io/summary/new_code?id=blingblingboyy_calculadora1)
-[![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-white.svg)](https://sonarcloud.io/summary/new_code?id=blingblingboyy_calculadora1)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=blingblingboyy_calculadora1&metric=coverage)](https://sonarcloud.io/summary/new_code?id=blingblingboyy_calculadora1)
 
 # Calculadora com CI.
 Utiliza 3 ambientes:

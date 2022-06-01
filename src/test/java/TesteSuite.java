@@ -11,6 +11,7 @@ import calculadora.TestCalculadora;
 public class TesteSuite {
 
     public static junit.framework.Test suite() {
+
         return new JUnit4TestAdapter(TesteSuite.class);
     }
 

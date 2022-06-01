@@ -45,6 +45,7 @@ jobs:
      cache: maven
   - name: Testa o projeto com Maven
     run: mvn -B test --file pom.xml
+  # Executa os passos da análise do código com o sonarcube
   - name: Cache SonarCloud packages
     uses: actions/cache@v1
     with:
